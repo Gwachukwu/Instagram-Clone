@@ -103,6 +103,7 @@ button{
     margin-left: 80%;
     margin-top: -5%;
     border: 1px solid rgba(226, 223, 223, 0.555);
+    padding: 1rem;
 }
 .aside1-top{
     display: flex;
@@ -129,6 +130,7 @@ button{
     transform: translate(2rem,-30rem);
     margin-left: 60%;
     height: 30%;
+    padding 1rem;
 }
 .follow{
     float:right; 
